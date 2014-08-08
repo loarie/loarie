@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Trying Jekyll
+comments: true
 ---
 
 
