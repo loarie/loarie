@@ -10,10 +10,15 @@ title:            Scott Loarie
 url:              http://scottloarie.com
 paginate:         1
 baseurl:          /
-author:
+
+author:           
   name:           Scott Loarie
   url:            http://scottloarie.com
   email:          loarie@gmail.com
+  github:         loarie
+  twitter:        loarie
+  linkedin:       scott-loarie
+  email_md5:      28d575e3b1077618c04cff46b71e6ab2
 
 # Custom vars
 version:          1.0.0
