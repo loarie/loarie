@@ -1,5 +1,6 @@
 .sidebar {
-	opacity: 0.8;
+	opacity: 1.0;
+	background: rgb(172,66,60);
 }
 
 .sidebar:hover {
@@ -25,4 +26,6 @@
 #logo {
   margin: 0;
   padding: 0;
+  height: 40px;
+  display: inline-block;
 }
