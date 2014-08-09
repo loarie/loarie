@@ -208,6 +208,7 @@ a.sidebar-nav-item:focus {
   background-color: rgb(252,246,222);
   border-radius: 4px;
   cursor: pointer;
+  box-shadow: 0 0 0 .25rem rgb(172,66,60);
 }
 .sidebar-toggle:before {
   display: block;
@@ -532,7 +533,7 @@ a.pagination-item:hover {
           transform: translateX(0);
 }
 .sidebar-overlay #sidebar-checkbox:checked ~ .sidebar-toggle {
-  box-shadow: 0 0 0 .25rem rgb(252,246,222);;
+  box-shadow: 0 0 0 .25rem rgb(252,246,222);
 }
 .sidebar-overlay #sidebar-checkbox:checked ~ .sidebar {
   box-shadow: .25rem 0 .5rem rgba(0,0,0,.1);

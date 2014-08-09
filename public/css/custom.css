@@ -34,3 +34,24 @@
   margin: 0 0 1rem;
   border-radius: 5px;
 }
+
+.make-yellow {
+  background: rgb(252,246,222);
+}
+
+.yellow-icon {
+  color: rgb(252,246,222);
+}
+
+.red-icon {
+	color: rgb(172,66,60);
+}
+
+.green-icon {
+	color: rgb(66,87,29);
+}
+
+.gray-icon {
+	color: rgb(68,68,88);
+}
+ 
