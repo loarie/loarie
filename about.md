@@ -14,7 +14,7 @@ There are currently two themes built on Poole:
 * [Hyde](http://hyde.getpoole.com)
 * [Lanyon](http://lanyon.getpoole.com)
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+![Campbell's mona monkey (*Cercopithecus campbelli*) in Tai National Park, Côte d'Ivoire](/assets/monkeys.png).
 
 ## Setup
 
