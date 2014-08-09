@@ -54,4 +54,23 @@
 .gray-icon {
 	color: rgb(68,68,88);
 }
- 
+
+
+
+
+
+.clear:before,
+.clear:after {
+    content: " ";
+    display: table;
+}
+
+.clear:after {
+    clear: both;
+}
+.wrap2 { padding: 10,10,10,10;}
+.left {
+  float: left;
+  padding: 10,10,10,10;
+}
+

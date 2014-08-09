@@ -2,7 +2,8 @@
 layout: page
 title: About Me
 ---
-![Campbell's mona monkey (*Cercopithecus campbelli*) in Tai National Park, Côte d'Ivoire](/assets/monkeys.png).
+![Campbell's mona monkey (*Cercopithecus campbelli*) in Tai National Park, Côte d'Ivoire](/assets/monkeys.png)
+Campbell's mona monkey (Cercopithecus campbelli) in Tai National Park, Côte d'Ivoire
 
 ## Setup
 
