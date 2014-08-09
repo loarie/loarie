@@ -6,7 +6,7 @@
 <div class="sidebar" id="sidebar">
   
     <div class="sidebar-logo">
-      <img src="http://www.gravatar.com/avatar/{{site.author.email_md5}}?s=120" />
+      <img src="/assets/pic.jpg" />
     </div>
 
   <div id="contact-list" style="text-align:center">
@@ -68,6 +68,7 @@
 
   <nav class="sidebar-nav">
     <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="/">Home</a>
+    <a class="sidebar-nav-item{% if page.url == site.blogurl %} active{% endif %}" href="/blog/">Blog</a>
 
     {% comment %}
       The code below dynamically generates a sidebar nav of pages with

@@ -29,3 +29,8 @@
   height: 30px;
   display: inline-block;
 }
+
+.banner {
+  margin: 0 0 1rem;
+  border-radius: 5px;
+}

@@ -1,19 +1,7 @@
 ---
 layout: page
-title: About
+title: About Me
 ---
-
-<p class="message">
-  Is this working...?
-</p>
-
-In the novel, *The Strange Case of Dr. Jekyll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
-
-There are currently two themes built on Poole:
-
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
-
 ![Campbell's mona monkey (*Cercopithecus campbelli*) in Tai National Park, Côte d'Ivoire](/assets/monkeys.png).
 
 ## Setup
